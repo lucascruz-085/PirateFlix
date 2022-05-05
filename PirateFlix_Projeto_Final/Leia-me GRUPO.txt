@@ -1,0 +1,4 @@
+MATRICULA: 202108576174
+ALUNO: Lucas Cruz Da Silva.
+CURSO: Analise e dessenvolvimento de sistemas.
+TURNO: Quarta-feira, Noite.
